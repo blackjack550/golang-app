@@ -2,8 +2,8 @@ FROM google/golang
 MAINTAINER Jack.Wong "huangshuo@intra.nsfocus.com"
 
 # Build app
-WORKDIR /gopath/app
-ENV GOPATH /gopath/app
+WORKDIR /gopath
+ENV GOPATH /gopath
 ADD . /gopath/src/golang-app
 
 RUN go get -t golang-app
