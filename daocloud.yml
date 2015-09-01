@@ -12,10 +12,10 @@ install:
   - sudo apt-get update
 
 before_script:
-  - mkdir -p /gopath/src/golang-app
-  - mv ./* /gopath/src/golang-app
+  - mkdir -p /gopath/app/golang-app/src
+  - mv ./* /gopath/app/golang-app/src
 
 script:
-  - export GOPATH=/gopath
+  - export GOPATH=/gopath/app
 #  - go get -t golang-app
 #  - go test golang-app
