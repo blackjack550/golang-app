@@ -15,7 +15,9 @@ before_script:
   - mkdir -p /gopath/src/
   - mv ./* /gopath/src/
 
+
 script:
   - export GOPATH=/gopath
+  - go run /gopath/src/main.go
 #  - go get -t golang-app
 #  - go test golang-app

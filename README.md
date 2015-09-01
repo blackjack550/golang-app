@@ -1,3 +1,5 @@
-#golang-redis-sample
+# vhost monitor in golang #
 
-This sample demonstrates how to setup DaoCloud CI for a golang + redis project.
+vhost collected data for monitor self status.
+
+
