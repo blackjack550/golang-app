@@ -2,92 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="861c3623-5e84-494d-9769-f975dc491407" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.go" afterPath="$PROJECT_DIR$/main.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="V:\git\golang-app\github.com\shirou\gopsutil\.gitignore" afterPath="$PROJECT_DIR$/src/github.com/shirou/gopsutil/.gitignore" />
-      <change type="MOVED" beforePath="V:\git\golang-app\github.com\shirou\gopsutil\LICENSE" afterPath="$PROJECT_DIR$/src/github.com/shirou/gopsutil/LICENSE" />
-      <change type="MOVED" beforePath="V:\git\golang-app\github.com\shirou\gopsutil\README.rst" afterPath="$PROJECT_DIR$/src/github.com/shirou/gopsutil/README.rst" />
-      <change type="MOVED" beforePath="V:\git\golang-app\github.com\shirou\gopsutil\common\common.go" afterPath="$PROJECT_DIR$/src/github.com/shirou/gopsutil/common/common.go" />
-      <change type="MOVED" beforePath="V:\git\golang-app\github.com\shirou\gopsutil\common\common_darwin.go" afterPath="$PROJECT_DIR$/src/github.com/shirou/gopsutil/common/common_darwin.go" />
-      <change type="MOVED" beforePath="V:\git\golang-app\github.com\shirou\gopsutil\common\common_freebsd.go" afterPath="$PROJECT_DIR$/src/github.com/shirou/gopsutil/common/common_freebsd.go" />
-      <change type="MOVED" beforePath="V:\git\golang-app\github.com\shirou\gopsutil\common\common_test.go" afterPath="$PROJECT_DIR$/src/github.com/shirou/gopsutil/common/common_test.go" />
-      <change type="MOVED" beforePath="V:\git\golang-app\github.com\shirou\gopsutil\common\common_windows.go" afterPath="$PROJECT_DIR$/src/github.com/shirou/gopsutil/common/common_windows.go" />
-      <change type="MOVED" beforePath="V:\git\golang-app\github.com\shirou\gopsutil\coverall.sh" afterPath="$PROJECT_DIR$/src/github.com/shirou/gopsutil/coverall.sh" />
-      <change type="MOVED" beforePath="V:\git\golang-app\github.com\shirou\gopsutil\cpu\cpu.go" afterPath="$PROJECT_DIR$/src/github.com/shirou/gopsutil/cpu/cpu.go" />
-      <change type="MOVED" beforePath="V:\git\golang-app\github.com\shirou\gopsutil\cpu\cpu_darwin.go" afterPath="$PROJECT_DIR$/src/github.com/shirou/gopsutil/cpu/cpu_darwin.go" />
-      <change type="MOVED" beforePath="V:\git\golang-app\github.com\shirou\gopsutil\cpu\cpu_freebsd.go" afterPath="$PROJECT_DIR$/src/github.com/shirou/gopsutil/cpu/cpu_freebsd.go" />
-      <change type="MOVED" beforePath="V:\git\golang-app\github.com\shirou\gopsutil\cpu\cpu_linux.go" afterPath="$PROJECT_DIR$/src/github.com/shirou/gopsutil/cpu/cpu_linux.go" />
-      <change type="MOVED" beforePath="V:\git\golang-app\github.com\shirou\gopsutil\cpu\cpu_test.go" afterPath="$PROJECT_DIR$/src/github.com/shirou/gopsutil/cpu/cpu_test.go" />
-      <change type="MOVED" beforePath="V:\git\golang-app\github.com\shirou\gopsutil\cpu\cpu_unix.go" afterPath="$PROJECT_DIR$/src/github.com/shirou/gopsutil/cpu/cpu_unix.go" />
-      <change type="MOVED" beforePath="V:\git\golang-app\github.com\shirou\gopsutil\cpu\cpu_windows.go" afterPath="$PROJECT_DIR$/src/github.com/shirou/gopsutil/cpu/cpu_windows.go" />
-      <change type="MOVED" beforePath="V:\git\golang-app\github.com\shirou\gopsutil\disk\binary.go" afterPath="$PROJECT_DIR$/src/github.com/shirou/gopsutil/disk/binary.go" />
-      <change type="MOVED" beforePath="V:\git\golang-app\github.com\shirou\gopsutil\disk\disk.go" afterPath="$PROJECT_DIR$/src/github.com/shirou/gopsutil/disk/disk.go" />
-      <change type="MOVED" beforePath="V:\git\golang-app\github.com\shirou\gopsutil\disk\disk_darwin.go" afterPath="$PROJECT_DIR$/src/github.com/shirou/gopsutil/disk/disk_darwin.go" />
-      <change type="MOVED" beforePath="V:\git\golang-app\github.com\shirou\gopsutil\disk\disk_darwin_amd64.go" afterPath="$PROJECT_DIR$/src/github.com/shirou/gopsutil/disk/disk_darwin_amd64.go" />
-      <change type="MOVED" beforePath="V:\git\golang-app\github.com\shirou\gopsutil\disk\disk_freebsd.go" afterPath="$PROJECT_DIR$/src/github.com/shirou/gopsutil/disk/disk_freebsd.go" />
-      <change type="MOVED" beforePath="V:\git\golang-app\github.com\shirou\gopsutil\disk\disk_freebsd_amd64.go" afterPath="$PROJECT_DIR$/src/github.com/shirou/gopsutil/disk/disk_freebsd_amd64.go" />
-      <change type="MOVED" beforePath="V:\git\golang-app\github.com\shirou\gopsutil\disk\disk_linux.go" afterPath="$PROJECT_DIR$/src/github.com/shirou/gopsutil/disk/disk_linux.go" />
-      <change type="MOVED" beforePath="V:\git\golang-app\github.com\shirou\gopsutil\disk\disk_test.go" afterPath="$PROJECT_DIR$/src/github.com/shirou/gopsutil/disk/disk_test.go" />
-      <change type="MOVED" beforePath="V:\git\golang-app\github.com\shirou\gopsutil\disk\disk_unix.go" afterPath="$PROJECT_DIR$/src/github.com/shirou/gopsutil/disk/disk_unix.go" />
-      <change type="MOVED" beforePath="V:\git\golang-app\github.com\shirou\gopsutil\disk\disk_windows.go" afterPath="$PROJECT_DIR$/src/github.com/shirou/gopsutil/disk/disk_windows.go" />
-      <change type="MOVED" beforePath="V:\git\golang-app\github.com\shirou\gopsutil\disk\types_freebsd.go" afterPath="$PROJECT_DIR$/src/github.com/shirou/gopsutil/disk/types_freebsd.go" />
-      <change type="MOVED" beforePath="V:\git\golang-app\github.com\shirou\gopsutil\doc.go" afterPath="$PROJECT_DIR$/src/github.com/shirou/gopsutil/doc.go" />
-      <change type="MOVED" beforePath="V:\git\golang-app\github.com\shirou\gopsutil\docker\docker.go" afterPath="$PROJECT_DIR$/src/github.com/shirou/gopsutil/docker/docker.go" />
-      <change type="MOVED" beforePath="V:\git\golang-app\github.com\shirou\gopsutil\docker\docker_linux.go" afterPath="$PROJECT_DIR$/src/github.com/shirou/gopsutil/docker/docker_linux.go" />
-      <change type="MOVED" beforePath="V:\git\golang-app\github.com\shirou\gopsutil\docker\docker_linux_test.go" afterPath="$PROJECT_DIR$/src/github.com/shirou/gopsutil/docker/docker_linux_test.go" />
-      <change type="MOVED" beforePath="V:\git\golang-app\github.com\shirou\gopsutil\docker\docker_notlinux.go" afterPath="$PROJECT_DIR$/src/github.com/shirou/gopsutil/docker/docker_notlinux.go" />
-      <change type="MOVED" beforePath="V:\git\golang-app\github.com\shirou\gopsutil\host\host.go" afterPath="$PROJECT_DIR$/src/github.com/shirou/gopsutil/host/host.go" />
-      <change type="MOVED" beforePath="V:\git\golang-app\github.com\shirou\gopsutil\host\host_darwin.go" afterPath="$PROJECT_DIR$/src/github.com/shirou/gopsutil/host/host_darwin.go" />
-      <change type="MOVED" beforePath="V:\git\golang-app\github.com\shirou\gopsutil\host\host_darwin_amd64.go" afterPath="$PROJECT_DIR$/src/github.com/shirou/gopsutil/host/host_darwin_amd64.go" />
-      <change type="MOVED" beforePath="V:\git\golang-app\github.com\shirou\gopsutil\host\host_freebsd.go" afterPath="$PROJECT_DIR$/src/github.com/shirou/gopsutil/host/host_freebsd.go" />
-      <change type="MOVED" beforePath="V:\git\golang-app\github.com\shirou\gopsutil\host\host_freebsd_amd64.go" afterPath="$PROJECT_DIR$/src/github.com/shirou/gopsutil/host/host_freebsd_amd64.go" />
-      <change type="MOVED" beforePath="V:\git\golang-app\github.com\shirou\gopsutil\host\host_linux.go" afterPath="$PROJECT_DIR$/src/github.com/shirou/gopsutil/host/host_linux.go" />
-      <change type="MOVED" beforePath="V:\git\golang-app\github.com\shirou\gopsutil\host\host_linux_386.go" afterPath="$PROJECT_DIR$/src/github.com/shirou/gopsutil/host/host_linux_386.go" />
-      <change type="MOVED" beforePath="V:\git\golang-app\github.com\shirou\gopsutil\host\host_linux_amd64.go" afterPath="$PROJECT_DIR$/src/github.com/shirou/gopsutil/host/host_linux_amd64.go" />
-      <change type="MOVED" beforePath="V:\git\golang-app\github.com\shirou\gopsutil\host\host_linux_arm.go" afterPath="$PROJECT_DIR$/src/github.com/shirou/gopsutil/host/host_linux_arm.go" />
-      <change type="MOVED" beforePath="V:\git\golang-app\github.com\shirou\gopsutil\host\host_linux_test.go" afterPath="$PROJECT_DIR$/src/github.com/shirou/gopsutil/host/host_linux_test.go" />
-      <change type="MOVED" beforePath="V:\git\golang-app\github.com\shirou\gopsutil\host\host_test.go" afterPath="$PROJECT_DIR$/src/github.com/shirou/gopsutil/host/host_test.go" />
-      <change type="MOVED" beforePath="V:\git\golang-app\github.com\shirou\gopsutil\host\host_windows.go" afterPath="$PROJECT_DIR$/src/github.com/shirou/gopsutil/host/host_windows.go" />
-      <change type="MOVED" beforePath="V:\git\golang-app\github.com\shirou\gopsutil\host\types_darwin.go" afterPath="$PROJECT_DIR$/src/github.com/shirou/gopsutil/host/types_darwin.go" />
-      <change type="MOVED" beforePath="V:\git\golang-app\github.com\shirou\gopsutil\host\types_freebsd.go" afterPath="$PROJECT_DIR$/src/github.com/shirou/gopsutil/host/types_freebsd.go" />
-      <change type="MOVED" beforePath="V:\git\golang-app\github.com\shirou\gopsutil\host\types_linux.go" afterPath="$PROJECT_DIR$/src/github.com/shirou/gopsutil/host/types_linux.go" />
-      <change type="MOVED" beforePath="V:\git\golang-app\github.com\shirou\gopsutil\load\load.go" afterPath="$PROJECT_DIR$/src/github.com/shirou/gopsutil/load/load.go" />
-      <change type="MOVED" beforePath="V:\git\golang-app\github.com\shirou\gopsutil\load\load_darwin.go" afterPath="$PROJECT_DIR$/src/github.com/shirou/gopsutil/load/load_darwin.go" />
-      <change type="MOVED" beforePath="V:\git\golang-app\github.com\shirou\gopsutil\load\load_freebsd.go" afterPath="$PROJECT_DIR$/src/github.com/shirou/gopsutil/load/load_freebsd.go" />
-      <change type="MOVED" beforePath="V:\git\golang-app\github.com\shirou\gopsutil\load\load_linux.go" afterPath="$PROJECT_DIR$/src/github.com/shirou/gopsutil/load/load_linux.go" />
-      <change type="MOVED" beforePath="V:\git\golang-app\github.com\shirou\gopsutil\load\load_test.go" afterPath="$PROJECT_DIR$/src/github.com/shirou/gopsutil/load/load_test.go" />
-      <change type="MOVED" beforePath="V:\git\golang-app\github.com\shirou\gopsutil\load\load_windows.go" afterPath="$PROJECT_DIR$/src/github.com/shirou/gopsutil/load/load_windows.go" />
-      <change type="MOVED" beforePath="V:\git\golang-app\github.com\shirou\gopsutil\mem\mem.go" afterPath="$PROJECT_DIR$/src/github.com/shirou/gopsutil/mem/mem.go" />
-      <change type="MOVED" beforePath="V:\git\golang-app\github.com\shirou\gopsutil\mem\mem_darwin.go" afterPath="$PROJECT_DIR$/src/github.com/shirou/gopsutil/mem/mem_darwin.go" />
-      <change type="MOVED" beforePath="V:\git\golang-app\github.com\shirou\gopsutil\mem\mem_freebsd.go" afterPath="$PROJECT_DIR$/src/github.com/shirou/gopsutil/mem/mem_freebsd.go" />
-      <change type="MOVED" beforePath="V:\git\golang-app\github.com\shirou\gopsutil\mem\mem_linux.go" afterPath="$PROJECT_DIR$/src/github.com/shirou/gopsutil/mem/mem_linux.go" />
-      <change type="MOVED" beforePath="V:\git\golang-app\github.com\shirou\gopsutil\mem\mem_test.go" afterPath="$PROJECT_DIR$/src/github.com/shirou/gopsutil/mem/mem_test.go" />
-      <change type="MOVED" beforePath="V:\git\golang-app\github.com\shirou\gopsutil\mem\mem_windows.go" afterPath="$PROJECT_DIR$/src/github.com/shirou/gopsutil/mem/mem_windows.go" />
-      <change type="MOVED" beforePath="V:\git\golang-app\github.com\shirou\gopsutil\mktypes.sh" afterPath="$PROJECT_DIR$/src/github.com/shirou/gopsutil/mktypes.sh" />
-      <change type="MOVED" beforePath="V:\git\golang-app\github.com\shirou\gopsutil\net\net.go" afterPath="$PROJECT_DIR$/src/github.com/shirou/gopsutil/net/net.go" />
-      <change type="MOVED" beforePath="V:\git\golang-app\github.com\shirou\gopsutil\net\net_darwin.go" afterPath="$PROJECT_DIR$/src/github.com/shirou/gopsutil/net/net_darwin.go" />
-      <change type="MOVED" beforePath="V:\git\golang-app\github.com\shirou\gopsutil\net\net_freebsd.go" afterPath="$PROJECT_DIR$/src/github.com/shirou/gopsutil/net/net_freebsd.go" />
-      <change type="MOVED" beforePath="V:\git\golang-app\github.com\shirou\gopsutil\net\net_linux.go" afterPath="$PROJECT_DIR$/src/github.com/shirou/gopsutil/net/net_linux.go" />
-      <change type="MOVED" beforePath="V:\git\golang-app\github.com\shirou\gopsutil\net\net_test.go" afterPath="$PROJECT_DIR$/src/github.com/shirou/gopsutil/net/net_test.go" />
-      <change type="MOVED" beforePath="V:\git\golang-app\github.com\shirou\gopsutil\net\net_windows.go" afterPath="$PROJECT_DIR$/src/github.com/shirou/gopsutil/net/net_windows.go" />
-      <change type="MOVED" beforePath="V:\git\golang-app\github.com\shirou\gopsutil\process\binary.go" afterPath="$PROJECT_DIR$/src/github.com/shirou/gopsutil/process/binary.go" />
-      <change type="MOVED" beforePath="V:\git\golang-app\github.com\shirou\gopsutil\process\process.go" afterPath="$PROJECT_DIR$/src/github.com/shirou/gopsutil/process/process.go" />
-      <change type="MOVED" beforePath="V:\git\golang-app\github.com\shirou\gopsutil\process\process_darwin.go" afterPath="$PROJECT_DIR$/src/github.com/shirou/gopsutil/process/process_darwin.go" />
-      <change type="MOVED" beforePath="V:\git\golang-app\github.com\shirou\gopsutil\process\process_darwin_amd64.go" afterPath="$PROJECT_DIR$/src/github.com/shirou/gopsutil/process/process_darwin_amd64.go" />
-      <change type="MOVED" beforePath="V:\git\golang-app\github.com\shirou\gopsutil\process\process_freebsd.go" afterPath="$PROJECT_DIR$/src/github.com/shirou/gopsutil/process/process_freebsd.go" />
-      <change type="MOVED" beforePath="V:\git\golang-app\github.com\shirou\gopsutil\process\process_freebsd_386.go" afterPath="$PROJECT_DIR$/src/github.com/shirou/gopsutil/process/process_freebsd_386.go" />
-      <change type="MOVED" beforePath="V:\git\golang-app\github.com\shirou\gopsutil\process\process_freebsd_amd64.go" afterPath="$PROJECT_DIR$/src/github.com/shirou/gopsutil/process/process_freebsd_amd64.go" />
-      <change type="MOVED" beforePath="V:\git\golang-app\github.com\shirou\gopsutil\process\process_linux.go" afterPath="$PROJECT_DIR$/src/github.com/shirou/gopsutil/process/process_linux.go" />
-      <change type="MOVED" beforePath="V:\git\golang-app\github.com\shirou\gopsutil\process\process_linux_386.go" afterPath="$PROJECT_DIR$/src/github.com/shirou/gopsutil/process/process_linux_386.go" />
-      <change type="MOVED" beforePath="V:\git\golang-app\github.com\shirou\gopsutil\process\process_linux_amd64.go" afterPath="$PROJECT_DIR$/src/github.com/shirou/gopsutil/process/process_linux_amd64.go" />
-      <change type="MOVED" beforePath="V:\git\golang-app\github.com\shirou\gopsutil\process\process_linux_arm.go" afterPath="$PROJECT_DIR$/src/github.com/shirou/gopsutil/process/process_linux_arm.go" />
-      <change type="MOVED" beforePath="V:\git\golang-app\github.com\shirou\gopsutil\process\process_posix.go" afterPath="$PROJECT_DIR$/src/github.com/shirou/gopsutil/process/process_posix.go" />
-      <change type="MOVED" beforePath="V:\git\golang-app\github.com\shirou\gopsutil\process\process_posix_test.go" afterPath="$PROJECT_DIR$/src/github.com/shirou/gopsutil/process/process_posix_test.go" />
-      <change type="MOVED" beforePath="V:\git\golang-app\github.com\shirou\gopsutil\process\process_test.go" afterPath="$PROJECT_DIR$/src/github.com/shirou/gopsutil/process/process_test.go" />
-      <change type="MOVED" beforePath="V:\git\golang-app\github.com\shirou\gopsutil\process\process_windows.go" afterPath="$PROJECT_DIR$/src/github.com/shirou/gopsutil/process/process_windows.go" />
-      <change type="MOVED" beforePath="V:\git\golang-app\github.com\shirou\gopsutil\process\types_darwin.go" afterPath="$PROJECT_DIR$/src/github.com/shirou/gopsutil/process/types_darwin.go" />
-      <change type="MOVED" beforePath="V:\git\golang-app\github.com\shirou\gopsutil\windows_memo.rst" afterPath="$PROJECT_DIR$/src/github.com/shirou/gopsutil/windows_memo.rst" />
+      <change type="DELETED" beforePath="V:\git\golang-app\plugins\memory\m.go" afterPath="" />
+      <change type="DELETED" beforePath="V:\git\golang-app\plugins\memory\memory.go" afterPath="" />
     </list>
     <ignored path="golang-app.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -112,8 +28,8 @@
       <file leaf-file-name="main.go" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.2170139">
-              <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+            <state vertical-scroll-proportion="0.390625">
+              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding>
                 <element signature="e#14#49#0" expanded="true" />
               </folding>
@@ -228,11 +144,29 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="plugins" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="memory" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="golang-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="golang-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -562,12 +496,12 @@
       <option name="number" value="Default" />
       <updated>1441084260396</updated>
       <workItem from="1441084262689" duration="1453000" />
-      <workItem from="1441085757580" duration="3502000" />
+      <workItem from="1441085757580" duration="4101000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4955000" />
+    <option name="totallyTimeSpent" value="5554000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1288" y="-140" width="1296" height="1000" extended-state="6" />
@@ -580,7 +514,7 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2806183" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2806183" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -631,14 +565,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/memory/memory.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.046875">
-          <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/github.com/shirou/gopsutil/cpu/cpu.go">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -657,8 +583,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2170139">
-          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        <state vertical-scroll-proportion="0.390625">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding>
             <element signature="e#14#49#0" expanded="true" />
           </folding>
