@@ -17,5 +17,5 @@ before_script:
 
 script:
   - export GOPATH=/gopath
-  - go get -t golang-app
-  - go test golang-app
+#  - go get -t golang-app
+#  - go test golang-app
