@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;golang-app&gt;">
+    <CLASSES>
+      <root url="file://D:/gocode/src/src.iml" />
+      <root url="file://D:/gocode/src/main.go" />
+      <root url="file://D:/gocode/src/plugins" />
+      <root url="file://D:/gocode/src/github.com" />
+      <root url="file://D:/gocode/src/time.go" />
+      <root url="file://D:/gocode/src/diskvolume.go" />
+      <root url="file://D:/gocode/src/test.go" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+      <root url="file://D:/gocode/src/github.com/bitly/go-simplejson/.git" />
+      <root url="file://D:/gocode/src/github.com/shirou/gopsutil/.git" />
+      <root url="file://D:/gocode/src/github.com/alphazero/Go-Redis/.git" />
+    </excluded>
+  </library>
+</component>

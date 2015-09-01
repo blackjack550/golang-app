@@ -8,6 +8,7 @@ ADD . /gopath/app/src/golang-app
 
 RUN go get -t golang-app
 RUN go install golang-app
+RUN go install github.com/shirou/gopsutil
 
 # EXPOSE 80
 CMD ["/gopath/app/bin/golang-app"]
