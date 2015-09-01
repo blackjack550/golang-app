@@ -14,6 +14,7 @@ install:
 before_script:
   - mkdir -p /gopath/src/golang-app
   - mv ./* /gopath/src/golang-app
+  - go install github.com/shirou/gopsutil
 
 script:
   - export GOPATH=/gopath
