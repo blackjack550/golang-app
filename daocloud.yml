@@ -12,8 +12,8 @@ install:
   - sudo apt-get update
 
 before_script:
-  - mkdir -p /gopath/src/golang-app
-  - mv ./* /gopath/src/golang-app
+  - mkdir -p /gopath/src/
+  - mv ./* /gopath/src/
 
 script:
   - export GOPATH=/gopath
