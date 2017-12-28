@@ -1,5 +1,5 @@
 FROM google/golang
-MAINTAINER Jack.Wong "huangshuo@intra.nsfocus.com"
+MAINTAINER Jack.Wong "blackjack550@sina.com"
 
 # Build app
 WORKDIR /gopath
